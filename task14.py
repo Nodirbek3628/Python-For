@@ -1,4 +1,4 @@
-num = int(input("Sinfdagi  talabalarning yoshini kiriting:"))    #sinifdagi 5 ta talabalarning o'rtacha yoshini kiritib.
+num = int(input("Sinfdagi  talabalarning yoshini kiriting:"))    #sinifdagi 5 ta talabalarning yoshini kiritib.
                                                                 # ularni o'rtacha yoshini toping....
 total = 0
 for a in range(1,num+1):
